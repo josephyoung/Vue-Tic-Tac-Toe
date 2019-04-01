@@ -1,4 +1,7 @@
-# hello-world
+# Vue-Tic-tac-toe
+The Vue version of Tic Tac Toe, enjoy.
+
+![Tic Tac Toe](screenShot.png)
 
 ## Project setup
 ```
