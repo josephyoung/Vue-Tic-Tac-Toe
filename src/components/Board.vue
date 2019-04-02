@@ -38,7 +38,7 @@ export default ({ props }) => {
 <style>
   .board {
     margin: 0 auto;
-    width: 102px;
+    width: 9rem;
   }
 
   .board-row:after {

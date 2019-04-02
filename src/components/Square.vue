@@ -13,14 +13,14 @@
     background: #fff;
     border: 1px solid #999;
     float: left;
-    font-size: 24px;
+    font-size: 2rem;
     font-weight: bold;
-    line-height: 34px;
-    height: 34px;
+    line-height: 1rem;
+    height: 3rem;
     margin-right: -1px;
     padding: 0;
     text-align: center;
-    width: 34px;
+    width: 3rem;
   }
 
   .square:focus {
